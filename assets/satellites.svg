@@ -25,4 +25,5 @@
     <use href="#sat" x="610" y="255"/><text x="610" y="227" fill="#f2e9df">NOAA-20</text><text x="610" y="207" fill="#ffb07a" font-size="15" font-weight="500">VIIRS · 2018</text>
     <use href="#sat" x="735" y="330"/><text x="735" y="302" fill="#f2e9df">NOAA-21</text><text x="735" y="282" fill="#ffb07a" font-size="15" font-weight="500">VIIRS · 2023</text>
   </g>
+  <g font-family="Arial, sans-serif" font-size="17" font-weight="700"><rect x="660" y="652" width="222" height="32" rx="8" fill="rgba(255,255,255,0.88)"/><text x="771" y="674" text-anchor="middle" fill="#3a2a20">SI-generated illustration</text></g>
 </svg>
